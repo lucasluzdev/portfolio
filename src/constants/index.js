@@ -81,13 +81,13 @@ const services = [
   },
   {
     title: "Backend to solve your problems",
-    icon: mobile,
+    icon: backend,
     description:
       "I can build APIs, microservices and integrations with external services, aiming for security, performance, effectiveness and response time for your services. My knowledge on modern tech stacks can help your projects to improve in size, reliability and efficiency.",
   },
   {
     title: "Mobile, to access in the palm of your hand",
-    icon: backend,
+    icon: mobile,
     description:
       "I can develop mobile applications with great usability, so your users can access your services when, and where he want with ease.",
   },
@@ -99,19 +99,19 @@ const services = [
   },
   {
     title: "Don't forget to store your data",
-    icon: creator,
+    icon: web,
     description:
       "Data is one of the most important things to have. So it's good to make sure your data is stored in a safe, structured and organized way. I can help create and maintain SQL/NoSQL databases, so your company understands your customers' needs.",
   },
   {
     title: "DevOps, so you can be online 24/7",
-    icon: creator,
+    icon: backend,
     description:
       "In nowdays, it's nice to automate as much processes as you can. I can help you to develop and mantain provisioning and pipelines so all your workflow won't need as much human hands as it should have.",
   },
   {
     title: "Scalability, while saving every penny",
-    icon: creator,
+    icon: mobile,
     description:
       "Hosting and scalability are difficult or costy? Not anymore! Believe me! It's possible to have your services in cloud, with ease, integrating with a ecosystem of cloud services, while whitin your budget! Show your project to the whole world, and conquer more customers!",
   },
@@ -123,13 +123,13 @@ const services = [
   },
   {
     title: "It's faster to grow with mentorship",
-    icon: creator,
+    icon: web,
     description:
       "Everyone has a beginning, but not everyone has to go through difficult steps. With mentoring, it becomes easier to achieve your goals more quickly and effectively, design and implement projects and follow the most appropriate paths for your career.",
   },
   {
     title: "Need a speaker? You've found him!",
-    icon: creator,
+    icon: backend,
     description:
       "It's always good to discover new things. And lectures are a great way to obtain information in a quick and didactic way, to be up to date with the latest developments in the world of technology, careers and professional relationships.",
   },
